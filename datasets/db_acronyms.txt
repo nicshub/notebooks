@@ -1,0 +1,32 @@
+acronym,definition
+SQL,Structured Query Language
+CRUD,Create Read Update Delete
+BLOB,Binary Large OBject
+CLOB,Character Large OBject
+PK,Primary Key
+FK,Foreign Key
+DDL,Data Definition Language
+DML,Data Manipulation Language
+ACID,Atomicity Consistency Isolation Durability
+BI,Business Intelligence
+CAP,Consistency Availability Partition
+CS,Cursor Stability
+DBA,Database Administrator
+DBMS,Database Management System
+DCL,Data Control Language
+DWH,Database Warehouse
+ERD,Entity Relationship Diagram
+ETL,Extract Transform Load
+ISAM,Indexed Sequential Access Method
+LOB,Large OBject
+MDC,Multidimensional Clustering Table
+MQT,Materialized Query Table (IBM DB2)
+ODBC,Open Database Connectivity
+OLAP,Online Analytical Processing
+ORM,Object-Relational Mapping
+RDBMS,Relational Database Management System
+RR, Repeatable Read - an isolation level supported by different database management systems.
+RS,Read Stability - an isolation level supported by different database management systems.
+SP,Stored Procedure
+UR,Uncommitted Read - an isolation level supported by different database management systems.
+

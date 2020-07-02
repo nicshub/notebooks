@@ -1,0 +1,109 @@
+,country,count(distinct(c.customer_id))
+0,India,60
+1,China,53
+2,United States,36
+3,Japan,31
+4,Mexico,30
+5,Brazil,28
+6,Russian Federation,28
+7,Philippines,20
+8,Turkey,15
+9,Indonesia,14
+10,Argentina,13
+11,Nigeria,13
+12,South Africa,11
+13,Taiwan,10
+14,United Kingdom,9
+15,Iran,8
+16,Poland,8
+17,Germany,7
+18,Italy,7
+19,Venezuela,7
+20,Colombia,6
+21,Egypt,6
+22,Ukraine,6
+23,Vietnam,6
+24,Canada,5
+25,Netherlands,5
+26,Pakistan,5
+27,Saudi Arabia,5
+28,South Korea,5
+29,Spain,5
+30,France,4
+31,Israel,4
+32,Peru,4
+33,Yemen,4
+34,Algeria,3
+35,Austria,3
+36,Bangladesh,3
+37,Chile,3
+38,Dominican Republic,3
+39,Ecuador,3
+40,Malaysia,3
+41,Morocco,3
+42,Mozambique,3
+43,Paraguay,3
+44,Switzerland,3
+45,Tanzania,3
+46,Thailand,3
+47,United Arab Emirates,3
+48,Angola,2
+49,Azerbaijan,2
+50,Belarus,2
+51,Bolivia,2
+52,Bulgaria,2
+53,Cambodia,2
+54,Cameroon,2
+55,"Congo, The Democratic Republic of the",2
+56,French Polynesia,2
+57,Greece,2
+58,Kazakstan,2
+59,Kenya,2
+60,Latvia,2
+61,Myanmar,2
+62,Oman,2
+63,Puerto Rico,2
+64,Romania,2
+65,Sudan,2
+66,Yugoslavia,2
+67,Afghanistan,1
+68,American Samoa,1
+69,Anguilla,1
+70,Armenia,1
+71,Bahrain,1
+72,Brunei,1
+73,Chad,1
+74,Czech Republic,1
+75,Estonia,1
+76,Ethiopia,1
+77,Faroe Islands,1
+78,Finland,1
+79,French Guiana,1
+80,Gambia,1
+81,Greenland,1
+82,Holy See (Vatican City State),1
+83,Hong Kong,1
+84,Hungary,1
+85,Iraq,1
+86,Kuwait,1
+87,Liechtenstein,1
+88,Lithuania,1
+89,Madagascar,1
+90,Malawi,1
+91,Moldova,1
+92,Nauru,1
+93,Nepal,1
+94,New Zealand,1
+95,North Korea,1
+96,Runion,1
+97,Saint Vincent and the Grenadines,1
+98,Senegal,1
+99,Slovakia,1
+100,Sri Lanka,1
+101,Sweden,1
+102,Tonga,1
+103,Tunisia,1
+104,Turkmenistan,1
+105,Tuvalu,1
+106,"Virgin Islands, U.S.",1
+107,Zambia,1

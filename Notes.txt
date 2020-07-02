@@ -1,0 +1,62 @@
+
+- Notebooks
+
+- Jupyter
+-- Install
+--- Anaconda
+--- WSL
+-- Usage
+--- User Interface 
+--- Concepts 
+---- Markdown
+---- Cell Code
+---- Kernels
+---- Nbconvert
+
+-- Extensions
+https://blog.jupyter.org/99-ways-to-extend-the-jupyter-ecosystem-11e5dab7c54
+--- Jupyter Lab
+--- Rise
+
+-- Lab Extension
+https://jupyterlab.readthedocs.io/en/stable/user/extensions.html
+--- Node Js
+
+- Data Analysis with Jupyter
+-- Pandas
+https://re-thought.com/the-complete-beginners-guide-to-pandas/
+-- SQL
+https://scikit-learn.org/stable/
+
+
+
+-- Spark
+https://github.com/jupyter-incubator/sparkmagic
+
+# Miscellanea
+## Notebooks in the Cloud
+## Criticism about Notebook
+## Swagger.io / Doxygen
+
+Spark
+pip install sparkmagic
+sudo apt-get install gcc
+
+Notebook
+https://www.neilernst.net/matrix-blog.html
+
+https://observablehq.com/
+https://stepshot.net/21-software-documentation-tools-for-every-stage-of-project-implementation/?utm_campaign=21tools&utm_medium=quora&utm_source=link#section3
+https://morphocode.com/interactive-notebooks-data-analysis-visualization/
+https://www.theatlantic.com/science/archive/2018/04/the-scientific-paper-is-obsolete/556676/
+
+https://towardsdatascience.com/scientific-data-analysis-pipelines-and-reproducibility-75ff9df5b4c5
+Scala
+https://medium.com/@am.benatmane/setting-up-a-spark-environment-with-jupyter-notebook-and-apache-zeppelin-on-ubuntu-e12116d6539e
+https://acadgild.com/blog/spark-integration-with-jupyter-notebook-in-10-minutes
+https://bigdata-madesimple.com/guide-to-install-spark-and-use-pyspark-from-jupyter-in-windows/
+
+Jupyter
+
+https://www.dataquest.io/blog/jupyter-notebook-tutorial/
+https://towardsdatascience.com/exploratory-data-analysis-with-pandas-and-jupyter-notebooks-36008090d813
