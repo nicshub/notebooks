@@ -1,0 +1,20 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: pyscale-example
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      run: pyscale-example
+  template:
+    metadata:
+      labels:
+        run: pyscale-example
+    spec:
+      containers:
+      - name: pyscale-example
+        image: k8s:payscaleapp
+        env:
+        - name: WHOAMI
+          value: "HAL 9000"
