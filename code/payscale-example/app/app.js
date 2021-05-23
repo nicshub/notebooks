@@ -8,7 +8,7 @@ const whoami = process.env['WHOAMI'] || 'Anonymous';
 const server = http.createServer((req, res) => {
   res.statusCode = 200;
   res.setHeader('Content-Type', 'text/plain');
-  res.end(`Hi, I’m ${whoami}, from ${hostname}.\n`);
+  res.end(`Hi, I'm ${whoami}, from ${hostname}.\n`);
 });
 server.listen(port, ip, () => {
   console.log(`Hello World at http://${ip}:${port}/`);
